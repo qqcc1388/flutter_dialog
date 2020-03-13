@@ -1,6 +1,6 @@
 在flutter中弹窗从底部弹窗用showModalBottomSheet 从中间弹窗用showDialog，下面通过这两个弹窗自定义了一下常用样式
 <div style="text-align:left">
-<img src="https://img2020.cnblogs.com/blog/950551/202003/950551-20200313172744309-2017142033.png" width="24%" height="25%">  <img src="https://img2020.cnblogs.com/blog/950551/202003/950551-20200313172752453-563444601.png" width="24%" height="25%">  <img src="https://img2020.cnblogs.com/blog/950551/202003/950551-20200313172800824-1014018025.png" width="24%" height="25%">  <img src="https://img2020.cnblogs.com/blog/950551/202003/950551-20200313172808537-1590639812.png" width="24%" height="25%">
+<img src="https://github.com/qqcc1388/flutter_dialog/blob/master/resource/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-13%20at%2016.43.22.png" width="24%" height="25%">  <img src="https://github.com/qqcc1388/flutter_dialog/blob/master/resource/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-13%20at%2016.45.54.png" width="24%" height="25%">  <img src="https://github.com/qqcc1388/flutter_dialog/blob/master/resource/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-13%20at%2017.10.40.png" width="24%" height="25%">  <img src="https://github.com/qqcc1388/flutter_dialog/blob/master/resource/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-13%20at%2017.12.54.png" width="24%" height="25%">
 </div>
 
 ### 显示底部弹窗
